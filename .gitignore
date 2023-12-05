@@ -2,3 +2,6 @@ import random
 import logging
 
 logging.basicConfig(filename='ugadai.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+def ugadivanie(N, k):
+    number = random.randint(1, N)
+    logging.info(f'Сгенерировано загаданное число: {number}')
