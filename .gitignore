@@ -5,3 +5,12 @@ logging.basicConfig(filename='ugadai.log', level=logging.INFO, format='%(asctime
 def ugadivanie(N, k):
     number = random.randint(1, N)
     logging.info(f'Сгенерировано загаданное число: {number}')
+popitki = 0
+    while popitki < k:
+        try:
+            vvod = int(input(f'Введите число от 1 до {N}: '))
+            logging.info(f'Пользователь ввел число: {vvod}')
+        except ValueError:
+            print('Ошибка! Введите целое число.')
+            logging.error('Ошибка ввода: введено нецелое число')
+            continue
