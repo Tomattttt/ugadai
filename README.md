@@ -19,15 +19,17 @@
 
 Тест 1.
 
-![image](https://github.com/Tomattttt/ugadai/assets/146252320/8597144d-1ab0-434b-8e4d-61525f3d5561)
+![image](https://github.com/Tomattttt/ugadai/assets/146252320/9de31756-fbfa-4047-9aa6-74fdfcb52f59)
+
 
 
 Тест 2.
 
-![image](https://github.com/Tomattttt/ugadai/assets/146252320/ae0d6a1f-142e-463d-9535-39778749951c)
+![image](https://github.com/Tomattttt/ugadai/assets/146252320/06dfbfad-661b-4495-a23e-4b75e16186d7)
+
 
 
 Тест 3. С ошибкой
 
-![image](https://github.com/Tomattttt/ugadai/assets/146252320/1f61b02c-d256-4258-af6b-cdedc06fe520)
+![image](https://github.com/Tomattttt/ugadai/assets/146252320/964fb32b-d8fd-4d7c-835e-3e5a3902eb25)
 
